@@ -1,16 +1,2 @@
-# azkary
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1709720996](https://github.com/alasaleh10/azkayr/assets/121885161/eedc2caa-d3b6-4304-802d-0e54cb590d08)
+![Screenshot_1709720957](https://github.com/alasaleh10/azkayr/assets/121885161/101ed54b-111e-4f59-9a40-bfc57b8f0939)
