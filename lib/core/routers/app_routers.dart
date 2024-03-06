@@ -1,0 +1,33 @@
+abstract class AppRouters {
+  static const String splash = '/';
+  static const String homeView = 'homeView';
+  static const String azkarView = 'azkarView';
+  static const String disPlayAzkarView = 'disPlayAzkarView';
+  static const String islamiaahView = 'islamiaahView';
+  static const String displayIslamiaa = 'displayIslamiaa';
+  static const String serahhView = 'serahhView';
+  static const String displaySerah = 'displaySerah';
+  static const String displaySerahItems = 'displaySerahItems';
+  static const String qussasView = 'qussasView';
+  static const String qussassDisplayTitle = 'qussassDisplayTitle';
+  static const String displayQussahView = 'displayQussahView';
+  static const String ramadanView = 'ramadanView';
+  static const String ramadandisplayView = 'ramadandisplayView';
+  static const String ramadandisplayItems = 'ramadandisplayItems';
+  static const String adeaaView = 'adeaaView';
+  static const String displayDoaa = 'displayDoaa';
+  static const String hajjView = 'hajjView';
+  static const String displayHajjTitle = 'displayHajjTitle';
+  static const String displayHajjItems = 'displayHajjItems';
+  static const String ahadeethView = 'ahadeethView';
+  static const String ahadeethDisplay='ahadeethDisplay';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+  // static const String splash='/';
+}
